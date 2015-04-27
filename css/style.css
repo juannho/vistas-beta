@@ -73,6 +73,7 @@ p,li,label{
 .social{
 	text-align: right;
 	padding-right: 15px;
+	padding-bottom: 5px;
 }
 .fa-facebook{
 	color: #3b5998;
@@ -88,4 +89,8 @@ p,li,label{
 }
 .publi{
 	margin-bottom: 20px;
+}
+.control{
+	border-top: gray 2px solid;
+	padding-top: 7px;
 }
